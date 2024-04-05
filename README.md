@@ -1,6 +1,6 @@
 - Hi, I’m  Dr. Sreeram Peela
-- I’m interested in analysing genomic data of pathogenic bacteria especially for antibiotic resistance and virulence
-- I’m currently learning python and bioinformatics
+- I’m interested in analysing OMICS data
+- I have experience in Python, R and Nextflow
 - How to reach me: srirambds.murthy@gmail.com
 
 <!---
